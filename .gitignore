@@ -1,0 +1,8 @@
+# 部署文档与本地工作目录不公开
+部署/
+
+# 系统与编辑器
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
